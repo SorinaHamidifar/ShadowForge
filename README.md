@@ -11,7 +11,7 @@ Main entry point for VoidForge.
 """
 
 from forge.core import BlackOpsEngine
-from forge.analysis import 
+from forge.analysis import Deep
 
 
 def run():
