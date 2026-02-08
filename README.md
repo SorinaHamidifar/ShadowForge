@@ -1,5 +1,5 @@
 # ================================
-# Project: VoidForge BlackOps
+# Project: VoidForge Black
 # Description:
 # A dark, resilient workspace designed for crafting efficient,
 # battle-tested code and exploring advanced concepts.
