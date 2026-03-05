@@ -1,5 +1,5 @@
 # ================================
-# Project: VoidForge analys
+# Project: VoidForge an
 # Description:
 # A dark, resilient workspace designed for crafting efficient,
 # battle-tested code and exploring advanced concepts.
