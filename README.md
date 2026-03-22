@@ -1,5 +1,5 @@
 # ================================
-# Project: VoidForge forge.analysis
+# Project: VoidForge forge.ana
 # Description:
 # A dark, resilient workspace designed for crafting efficient,
 # battle-tested code and exploring advanced concepts.
