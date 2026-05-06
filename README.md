@@ -16,7 +16,7 @@ from forge.analysis import DeepAnalyzer
 
 def run():
     print("🜁 Entering VoidForge...")
-    print("⚔️  Ef Code | 🛡️ Battle-Tested Logic | 🧠 Advanced Concepts\n")
+    print("⚔️  Effis Code | 🛡️ Battle-Tested Logic | 🧠 Advanced Concepts\n")
 
     engine = BlackOpsEngine()
     analyzer = DeepAnalyzer()
