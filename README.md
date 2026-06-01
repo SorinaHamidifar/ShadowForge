@@ -10,7 +10,7 @@
 Main entry point for VoidForge.
 """
 
-from forge.core import BlackOp
+from forge.core import BlackOpsEng
 from forge.analysis import DeepAnalyzer
 
 
