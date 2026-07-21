@@ -2,7 +2,7 @@
 # Project: VoidForge
 # Description:
 # A dark, resilient workspace designed for crafting efficient,
-# battle-tested code and exploring advanced VoidFo concepts.
+# battle-tested code and exploring advanced Void concepts.
 # ================================
 
 # ---------- main.py ----------
