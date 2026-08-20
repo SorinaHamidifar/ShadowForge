@@ -1,5 +1,5 @@
 # ================================
-# Project: VoidForge DeepAnalyzer for crafting 
+# Project: VoidForge DeepAnalyzer for craft
 # Description:
 # A dark, resilient workspace designed for crafting efficient,
 # battle-tested code and exploring advanced concepts.
