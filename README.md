@@ -1,5 +1,5 @@
 # ================================
-# Project: VoidForge designed for craf
+# Project: VoidForge designed for 
 # Description:
 # A dark, resilient workspace designed for crafting efficient,
 # battle-tested code and exploring advanced concepts.
