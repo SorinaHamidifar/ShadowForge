@@ -1,5 +1,5 @@
 # ================================
-# Project: VoidForge designed for crafting efficient,
+# Project: VoidForge designed for crafting effici
 # Description:
 # A dark, resilient workspace designed for crafting efficient,
 # battle-tested code and exploring advanced concepts.
