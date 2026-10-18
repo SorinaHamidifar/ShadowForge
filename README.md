@@ -1,7 +1,7 @@
 # ================================
 # Project: VoidForge
 # Description:
-# A dark, resilient workspace designed for crafting effisi,
+# A dark, resilient workspace designed for crafting effici,
 # battle-tested code and exploring advanced concepts.
 # ================================
 
